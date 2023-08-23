@@ -1,0 +1,6 @@
+ content.setStatus(ValidationContent.VALID); 
+ 
+    return content; 
+  } 
+ 
+  public static Class returns(Class inputType) throws Exception 
