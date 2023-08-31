@@ -1,0 +1,7 @@
+ private Hashtable fInfo; 
+ 
+    public SampleUserImpl() { 
+ 
+        fInfo = new Hashtable(); 
+ 
+        setLoginId("guest"); 
